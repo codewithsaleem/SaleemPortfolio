@@ -25,7 +25,7 @@ const Services = () => {
                             <RocketLaunchIcon className='w-[6rem] h-[6rem] mx-auto text-[#d3fae8]' />
                             <h1 className='text-[20px] md:text-[30px] mt-[1.5rem] mb-[1.5rem]'>Backend</h1>
                             <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                                Node.js is a JavaScript runtime built on Chrome's V8 engine, designed for building scalable network applications.
+                                Node.js is a JavaScript runtime built on Chromes V8 engine, designed for building scalable network applications.
                                 It features an event-driven, non-blocking I/O model, ideal for server-side development and real-time data handling.
                             </p>
                         </div>
