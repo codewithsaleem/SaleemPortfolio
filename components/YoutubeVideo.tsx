@@ -49,7 +49,7 @@ const YoutubeVideo = () => {
     ];
 
     return (
-        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 w-[100%] mx-auto items-center gap-[3rem] mt-[4rem] text-white' >
+        <div className='grid grid-cols-1 md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-2 w-[100%] mx-auto items-center gap-[3rem] mt-[4rem] text-white' >
             {allVideos.map((video, index) => (
                 <div data-aos="fade-left" key={index}>
                     {video}
